@@ -8,3 +8,4 @@
     :glob:
 
     desktop/*
+    enterprise/*

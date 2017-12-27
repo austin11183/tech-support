@@ -1,10 +1,9 @@
 ArcGIS Enterprise手動更新授權檔案
 =================================
 
-1. 複製ArcGIS Enterprise授權檔案keycodes，預設路徑如下
-
-    .. code-block:: 
-       C:\\Program Files\\ESRI\\License10.5\\sysgen
+1. 複製ArcGIS Enterprise授權檔案keycodes，預設路徑如下 
+   
+    *C:\\Program Files\\ESRI\\License10.5\\sysgen*
 
 2. 將授權檔案貼到可以編輯的路徑，例如桌面
 
@@ -29,7 +28,7 @@ ArcGIS Enterprise手動更新授權檔案
 5. 將keycode檔案副檔名改成.ecp
 
 6. 開啟Software Authorization
-   Wizard程式，選擇`第三個選項`，然後指定你剛改好的keycode.ecp檔案
+   Wizard程式，選擇**第三個選項**，然後指定你剛改好的keycode.ecp檔案
 
     |image1|
 
