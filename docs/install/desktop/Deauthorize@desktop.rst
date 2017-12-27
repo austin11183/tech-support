@@ -28,15 +28,15 @@ ArcGIS Desktop反註冊程序
 
     |image3|
 
-.. |image0| image:: ./output/Deauthorize@desktop/media/image1.jpeg
+.. |image0| image:: ./Deauthorize@desktop/image1.jpeg
    :width: 3.54331in
    :height: 2.69172in
-.. |image1| image:: ./output/Deauthorize@desktop/media/image2.jpeg
+.. |image1| image:: ./Deauthorize@desktop/image2.jpeg
    :width: 3.54331in
    :height: 2.67888in
-.. |image2| image:: ./output/Deauthorize@desktop/media/image3.jpeg
+.. |image2| image:: ./Deauthorize@desktop/image3.jpeg
    :width: 5.11811in
    :height: 6.41808in
-.. |image3| image:: ./output/Deauthorize@desktop/media/image4.jpeg
+.. |image3| image:: ./Deauthorize@desktop/image4.jpeg
    :width: 4.29167in
    :height: 5.45139in
