@@ -1,6 +1,16 @@
 ArcGIS Desktop反註冊程序
 ========================
 
+摘要
+--------
+
+當您要解除安裝ArcGIS Desktop產品之前，**請先反註冊您的Desktop License** ，您才能在其他電腦中繼續使用該組License。如果您沒有反註冊授權，則當該授權註冊次數超過一定上限後，授權程式會提示您該組授權無法再註冊，如下圖所示。如果出現授權無法註冊，請通知產品廠商協助您執行反註冊流程。
+
+   |image4|
+
+步驟
+-------
+
 1. 點選反註冊按鈕
 
     ***使用concurrent-use license的使用者***
@@ -40,3 +50,4 @@ ArcGIS Desktop反註冊程序
 .. |image3| image:: ./Deauthorize@desktop/image4.jpeg
    :width: 4.29167in
    :height: 5.45139in
+.. |image4| image:: ./Deauthorize@desktop/image0.png
