@@ -1,0 +1,2 @@
+######## require 3th package ########
+sphinxcontrib-disqus
