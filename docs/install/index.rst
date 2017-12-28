@@ -6,6 +6,13 @@
 .. toctree::
     :maxdepth: 2
     :glob:
+    :caption: ArcGIS Desktop
 
     desktop/*
+
+.. toctree::
+    :maxdepth: 2
+    :glob:
+    :caption: ArcGIS Enterprise
+
     enterprise/*
