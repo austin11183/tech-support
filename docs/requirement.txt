@@ -1,2 +1,2 @@
 ######## require 3th package ########
-sphinxcontrib-disqus
+sphinxcontrib-disqus==1.0.0
