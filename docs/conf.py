@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# PostgreSQL-Tutorial documentation build configuration file, created by
-# sphinx-quickstart on Mon Dec  4 09:56:48 2017.
-#
 # This file is execfile()d with the current directory set to its
 # containing dir.
 #
@@ -31,7 +28,10 @@ import sphinx_rtd_theme
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = []
+extensions = ['sphinxcontrib.disqus']
+
+# Options for extensions.
+disqus_shortname = 'arcgis-tech-support-tw'  # Add this line to conf.py.
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -46,9 +46,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'PostgreSQL-Tutorial'
-copyright = '2017, yicong'
-author = 'yicong'
+project = 'ArcGIS-Tech-Support-TW'
+copyright = '2017, Interactive Digital Technologies, GIS Division'
+author = 'Technical Support Team'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -64,7 +64,7 @@ release = '0.1'
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = 'zh-tw'
+language = 'zh'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -101,69 +101,9 @@ html_static_path = ['_static']
 #
 # This is required for the alabaster theme
 # refs: http://alabaster.readthedocs.io/en/latest/installation.html#sidebars
-html_sidebars = {
-    '**': [
-        'relations.html',  # needs 'show_related': True theme option to display
-        'searchbox.html',
-    ]
-}
-
-
-# -- Options for HTMLHelp output ------------------------------------------
-
-# Output file base name for HTML help builder.
-htmlhelp_basename = 'PostgreSQL-Tutorialdoc'
-
-
-# -- Options for LaTeX output ---------------------------------------------
-
-latex_elements = {
-    # The paper size ('letterpaper' or 'a4paper').
-    #
-    # 'papersize': 'letterpaper',
-
-    # The font size ('10pt', '11pt' or '12pt').
-    #
-    # 'pointsize': '10pt',
-
-    # Additional stuff for the LaTeX preamble.
-    #
-    # 'preamble': '',
-
-    # Latex figure (float) alignment
-    #
-    # 'figure_align': 'htbp',
-}
-
-# Grouping the document tree into LaTeX files. List of tuples
-# (source start file, target name, title,
-#  author, documentclass [howto, manual, or own class]).
-latex_documents = [
-    (master_doc, 'PostgreSQL-Tutorial.tex', 'PostgreSQL-Tutorial Documentation',
-     'yicong', 'manual'),
-]
-
-
-# -- Options for manual page output ---------------------------------------
-
-# One entry per manual page. List of tuples
-# (source start file, name, description, authors, manual section).
-man_pages = [
-    (master_doc, 'postgresql-tutorial', 'PostgreSQL-Tutorial Documentation',
-     [author], 1)
-]
-
-
-# -- Options for Texinfo output -------------------------------------------
-
-# Grouping the document tree into Texinfo files. List of tuples
-# (source start file, target name, title, author,
-#  dir menu entry, description, category)
-texinfo_documents = [
-    (master_doc, 'PostgreSQL-Tutorial', 'PostgreSQL-Tutorial Documentation',
-     author, 'PostgreSQL-Tutorial', 'One line description of project.',
-     'Miscellaneous'),
-]
-
-
-
+# html_sidebars = {
+#     '**': [
+#         'relations.html',  # needs 'show_related': True theme option to display
+#         'searchbox.html',
+#     ]
+# }
