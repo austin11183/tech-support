@@ -13,7 +13,7 @@ ArcGIS Desktop反註冊程序
 
 1. 點選反註冊按鈕
 
-    ***使用concurrent-use license的使用者***
+    **使用concurrent-use license的使用者**
 
     A. 開啟License Manager程式
 
@@ -21,7 +21,7 @@ ArcGIS Desktop反註冊程序
 
     |image0|
 
-    ***使用single-use licenses的使用者***
+    **使用single-use licenses的使用者**
 
     A. 打開ArcGIS Administrator
 
