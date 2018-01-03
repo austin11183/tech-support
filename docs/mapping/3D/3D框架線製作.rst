@@ -1,4 +1,7 @@
-﻿1. 從Catelog視窗中加入建物面資料。
+﻿3D框架線製作及發布
+=========================
+
+1. 從Catelog視窗中加入建物面資料。
 
 |image1|
 
@@ -7,109 +10,109 @@
 目前既有欄位無建物最底層的高度值，但可透過欄位計算算出。STATION_HH為建物高度，STATION_DP為建物頂層距離地面深度，同時以正負值代表方向，計算最底層高度值等於[STATION_DP]
 - [STATION_HH]
 
-1. 開啟屬性表，圖層右鍵點選Attribute Table
+2. 開啟屬性表，圖層右鍵點選Attribute Table
 
 |image2|
 
-1. Table視窗點選Add，開啟Field視窗，在最下方新增欄位，作為建物最底層的高度值，Field
+3. Table視窗點選Add，開啟Field視窗，在最下方新增欄位，作為建物最底層的高度值，Field
    Name命名為BUILDING，Data Type為Double。
 
 |image3|
 
-1. 新增完以後，在上方Field頁籤，點選Save儲存。
+4. 新增完以後，在上方Field頁籤，點選Save儲存。
 
 |image4|
 
-1. 在Table屬性表視窗中，卷軸網最右邊捲動，找到BUILDING欄位，在欄位名稱上方按右鍵，點選Calculate
+5. 在Table屬性表視窗中，卷軸網最右邊捲動，找到BUILDING欄位，在欄位名稱上方按右鍵，點選Calculate
    Field。
 
 |image5|
 
-1. 在Calculate
+6. 在Calculate
    Field視窗中，STATION\_DP點選兩下代入BUILDING下方運算式，點選”-“減號，再點選STATION_HH，即完成運算式撰寫，點選”Run”開始做欄位計算。
 
 |image6|
 
-1. 設定建物面圖層最底層高度。圖層右鍵點選”Properties”，開啟Layer
+7. 設定建物面圖層最底層高度。圖層右鍵點選”Properties”，開啟Layer
    Properties視窗，視窗中左側點選Elevation頁籤，右側點選A
    field，選擇”BUILDING”欄位，並點選”OK”。
 
 步驟8~9更換面圖層符號為Frame_susanc.rpk規則檔
 
-1. 點選建物面圖層符號，在Symbology視窗中，先取消勾選框線符號，並鎖住符號設定；面符號抽換Procedural
+8. 點選建物面圖層符號，在Symbology視窗中，先取消勾選框線符號，並鎖住符號設定；面符號抽換Procedural
    fill，點選Rule，帶入Frame_susanc.rpk規則檔，點選OK。
 
 |image7|
 
 |image8|
 
-1. 調整設定規則檔，eaveHeight代入[STATION_HH]，WireFrameColor可調整框線顏色，WireFrameThickness可調整框線粗細，調整完以後點選Apply套用設定。
+9. 調整設定規則檔，eaveHeight代入[STATION_HH]，WireFrameColor可調整框線顏色，WireFrameThickness可調整框線粗細，調整完以後點選Apply套用設定。
 
 |image9|
 
-1. 將面資料轉成多面體，使用Layer 3D to feature
+10. 將面資料轉成多面體，使用Layer 3D to feature
    class工具將面轉成multipatch。Input Feature
    Layer選擇建物面圖層，Output Feature
    Class指定匯出資料存放位置與檔名，點選Run執行。
 
 |image10|
 
-1. 發布場景至網頁。將步驟10匯出的multipatch資料加入圖層，並移除原始建物面資料。
+11. 發布場景至網頁。將步驟10匯出的multipatch資料加入圖層，並移除原始建物面資料。
 
 |image11|
 
-1. 點選Share頁籤，選擇Web Scene發布網頁場景。
+12. 點選Share頁籤，選擇Web Scene發布網頁場景。
 
 |image12|
 
-1. 設定Name名稱、Item
+13. 設定Name名稱、Item
    Description項目名稱，包括Summary概要及Tags標籤，設定完成以後，點選Analyze，確認沒有問題以後，點選Share，將模型發布至網頁。
 
 |image13|
 
-1. 登入Portal帳戶以後，開啟前一步驟發布的WebScene。
+14. 登入Portal帳戶以後，開啟前一步驟發布的WebScene。
 
 |image14|
 
-.. |image1| image:: ./output/3D框架線製作/image1.png
+.. |image1| image:: ./3D框架線製作/image1.png
    :width: 5.76806in
    :height: 3.12431in
-.. |image2| image:: ./output/3D框架線製作/image2.png
+.. |image2| image:: ./3D框架線製作/image2.png
    :width: 5.76806in
    :height: 4.08542in
-.. |image3| image:: ./output/3D框架線製作/image3.png
+.. |image3| image:: ./3D框架線製作/image3.png
    :width: 5.76806in
    :height: 4.50069in
-.. |image4| image:: ./output/3D框架線製作/image4.png
+.. |image4| image:: ./3D框架線製作/image4.png
    :width: 5.76806in
    :height: 4.08889in
-.. |image5| image:: ./output/3D框架線製作/image5.png
+.. |image5| image:: ./3D框架線製作/image5.png
    :width: 5.76806in
    :height: 1.87014in
-.. |image6| image:: ./output/3D框架線製作/image6.png
+.. |image6| image:: ./3D框架線製作/image6.png
    :width: 4.45833in
    :height: 8.97917in
-.. |image7| image:: ./output/3D框架線製作/image7.png
+.. |image7| image:: ./3D框架線製作/image7.png
    :width: 5.69792in
    :height: 4.97917in
-.. |image8| image:: ./output/3D框架線製作/image8.png
+.. |image8| image:: ./3D框架線製作/image8.png
    :width: 5.76806in
    :height: 2.51944in
-.. |image9| image:: ./output/3D框架線製作/image9.png
+.. |image9| image:: ./3D框架線製作/image9.png
    :width: 4.45833in
    :height: 9.69306in
-.. |image10| image:: ./output/3D框架線製作/image10.png
+.. |image10| image:: ./3D框架線製作/image10.png
    :width: 4.52083in
    :height: 3.80208in
-.. |image11| image:: ./output/3D框架線製作/image11.png
+.. |image11| image:: ./3D框架線製作/image11.png
    :width: 3.22917in
    :height: 3.30208in
-.. |image12| image:: ./output/3D框架線製作/image12.png
+.. |image12| image:: ./3D框架線製作/image12.png
    :width: 5.76806in
    :height: 1.41458in
-.. |image13| image:: ./output/3D框架線製作/image13.png
+.. |image13| image:: ./3D框架線製作/image13.png
    :width: 5.21875in
    :height: 5.61458in
-.. |image14| image:: ./output/3D框架線製作/image14.png
+.. |image14| image:: ./3D框架線製作/image14.png
    :width: 5.76806in
    :height: 2.92431in
