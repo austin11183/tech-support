@@ -11,13 +11,13 @@ ArcGIS Enterprise安裝概要
 
 ArcGIS Enterprise產品包含4個主要元件，分別是ArcGIS for Server、Portal for ArcGIS、ArcGIS Data Store、ArcGIS Web Adaptor。安裝時一定要先設定ArcGIS for Server，其他三個元件的安裝順序沒有強制性。筆者慣用的軟體安裝與更新順序如下，提供給讀者參考
 
-#. ArcGIS for Server
+1. ArcGIS for Server
 
-#. ArcGIS Data Store
+2. ArcGIS Data Store
 
-#. Portal for ArcGIS
+3. Portal for ArcGIS
 
-#. ArcGIS Web Adaptor
+4. ArcGIS Web Adaptor
 
 .. _h174fb648377959437b5c1f697c1c40:
 
