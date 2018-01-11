@@ -40,11 +40,9 @@ ArcGIS Enterprise安裝前準備
 電腦名稱
 ========
 
-
 ..  Note:: 
-
-        \ |STYLE4|\ 
-        \ |STYLE5|\ 
+    1.  ArcGIS for Server不支援含有底線"_"的電腦名稱
+    2.  設定完整電腦名稱會需要重新開機
 
 如果您決定安裝Portal for ArcGIS元件，則必須為機器設定完整的電腦名稱，例如name.domain.com.tw。
 
@@ -114,15 +112,13 @@ SSL憑證
    
 
 4. 在輸入欄中，輸入一個可以辨識的名稱，然後按確定
-
+   
    \ |IMG12|\ 
    
-
 5. 在功能檢視視窗中，會出現你剛剛建立的自我簽署憑證。
 
    \ |IMG13|\ 
    
-
 6. 在左側中，展開站台資料夾。對Default Web Site按滑鼠右鍵，選擇編輯繫結
 
    \ |IMG14|\ 
@@ -132,17 +128,14 @@ SSL憑證
 
    \ |IMG15|\ 
    
-
 8. 在類型選擇HTTPS，SSL憑證選擇剛剛建立好的憑證，然後按確定
 
    \ |IMG16|\ 
-
 
 9. 確定HTTPS協定已被啟用。沒有問題的話，按關閉按鈕關閉視窗。
 
    \ |IMG17|\ 
    
-
 .. bottom of content
 
 .. |STYLE1| replace:: **ArcGIS for Server**
@@ -150,10 +143,6 @@ SSL憑證
 .. |STYLE2| replace:: **Portal for ArcGIS**
 
 .. |STYLE3| replace:: **因此您必需備妥以上兩元件的License**
-
-.. |STYLE4| replace:: **1.  ArcGIS for Server不支援含有底線 _ 的電腦名稱**  
-
-.. |STYLE5| replace:: **2.  設定完整電腦名稱會需要重新開機**
 
 .. |STYLE6| replace:: **本機**
 
