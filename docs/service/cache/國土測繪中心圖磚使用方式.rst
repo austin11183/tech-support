@@ -277,126 +277,126 @@ II. .. rubric:: 開啟ArcMap瀏覽地圖
 
     |image40|
 
-.. |image0| image:: ./output/國土測繪中心圖磚使用方式/media/image1.png
+.. |image0| image:: ./國土測繪中心圖磚使用方式/image1.png
    :width: 6.60417in
    :height: 2.57771in
-.. |image1| image:: ./output/國土測繪中心圖磚使用方式/media/image2.png
+.. |image1| image:: ./國土測繪中心圖磚使用方式/image2.png
    :width: 5.52550in
    :height: 1.80764in
-.. |image2| image:: ./output/國土測繪中心圖磚使用方式/media/image3.png
+.. |image2| image:: ./國土測繪中心圖磚使用方式/image3.png
    :width: 1.91667in
    :height: 3.08973in
-.. |image3| image:: ./output/國土測繪中心圖磚使用方式/media/image4.png
+.. |image3| image:: ./國土測繪中心圖磚使用方式/image4.png
    :width: 4.46757in
    :height: 2.27917in
-.. |image4| image:: ./output/國土測繪中心圖磚使用方式/media/image5.png
+.. |image4| image:: ./國土測繪中心圖磚使用方式/image5.png
    :width: 2.86542in
    :height: 1.34028in
-.. |image5| image:: ./output/國土測繪中心圖磚使用方式/media/image6.png
+.. |image5| image:: ./國土測繪中心圖磚使用方式/image6.png
    :width: 2.95139in
    :height: 1.32246in
-.. |image6| image:: ./output/國土測繪中心圖磚使用方式/media/image7.png
+.. |image6| image:: ./國土測繪中心圖磚使用方式/image7.png
    :width: 2.01389in
    :height: 1.04041in
-.. |image7| image:: ./output/國土測繪中心圖磚使用方式/media/image8.png
+.. |image7| image:: ./國土測繪中心圖磚使用方式/image8.png
    :width: 1.31250in
    :height: 2.15421in
-.. |image8| image:: ./output/國土測繪中心圖磚使用方式/media/image9.png
+.. |image8| image:: ./國土測繪中心圖磚使用方式/image9.png
    :width: 2.50000in
    :height: 2.15865in
-.. |image9| image:: ./output/國土測繪中心圖磚使用方式/media/image10.png
+.. |image9| image:: ./國土測繪中心圖磚使用方式/image10.png
    :width: 1.63194in
    :height: 1.47950in
-.. |image10| image:: ./output/國土測繪中心圖磚使用方式/media/image11.png
+.. |image10| image:: ./國土測繪中心圖磚使用方式/image11.png
    :width: 3.18750in
    :height: 2.79405in
-.. |image11| image:: ./output/國土測繪中心圖磚使用方式/media/image12.png
+.. |image11| image:: ./國土測繪中心圖磚使用方式/image12.png
    :width: 2.94193in
    :height: 1.11458in
-.. |image12| image:: ./output/國土測繪中心圖磚使用方式/media/image13.png
+.. |image12| image:: ./國土測繪中心圖磚使用方式/image13.png
    :width: 3.38721in
    :height: 1.38889in
-.. |image13| image:: ./output/國土測繪中心圖磚使用方式/media/image14.png
+.. |image13| image:: ./國土測繪中心圖磚使用方式/image14.png
    :width: 2.26389in
    :height: 1.48940in
-.. |image14| image:: ./output/國土測繪中心圖磚使用方式/media/image15.png
+.. |image14| image:: ./國土測繪中心圖磚使用方式/image15.png
    :width: 3.87153in
    :height: 1.52872in
-.. |image15| image:: ./output/國土測繪中心圖磚使用方式/media/image16.png
+.. |image15| image:: ./國土測繪中心圖磚使用方式/image16.png
    :width: 3.17708in
    :height: 2.12500in
-.. |image16| image:: ./output/國土測繪中心圖磚使用方式/media/image17.png
+.. |image16| image:: ./國土測繪中心圖磚使用方式/image17.png
    :width: 3.48889in
    :height: 1.70833in
-.. |image17| image:: ./output/國土測繪中心圖磚使用方式/media/image18.png
+.. |image17| image:: ./國土測繪中心圖磚使用方式/image18.png
    :width: 3.73730in
    :height: 1.92361in
-.. |image18| image:: ./output/國土測繪中心圖磚使用方式/media/image19.png
+.. |image18| image:: ./國土測繪中心圖磚使用方式/image19.png
    :width: 4.83333in
    :height: 3.17361in
-.. |image19| image:: ./output/國土測繪中心圖磚使用方式/media/image20.png
+.. |image19| image:: ./國土測繪中心圖磚使用方式/image20.png
    :width: 4.14808in
    :height: 3.36111in
-.. |image20| image:: ./output/國土測繪中心圖磚使用方式/media/image21.png
+.. |image20| image:: ./國土測繪中心圖磚使用方式/image21.png
    :width: 4.63611in
    :height: 1.02750in
-.. |image21| image:: ./output/國土測繪中心圖磚使用方式/media/image22.png
+.. |image21| image:: ./國土測繪中心圖磚使用方式/image22.png
    :width: 5.61091in
    :height: 4.61319in
-.. |image22| image:: ./output/國土測繪中心圖磚使用方式/media/image23.png
+.. |image22| image:: ./國土測繪中心圖磚使用方式/image23.png
    :width: 4.80850in
    :height: 3.95347in
-.. |image23| image:: ./output/國土測繪中心圖磚使用方式/media/image24.png
+.. |image23| image:: ./國土測繪中心圖磚使用方式/image24.png
    :width: 3.99395in
    :height: 2.86944in
-.. |image24| image:: ./output/國土測繪中心圖磚使用方式/media/image25.png
+.. |image24| image:: ./國土測繪中心圖磚使用方式/image25.png
    :width: 5.03889in
    :height: 0.47618in
-.. |image25| image:: ./output/國土測繪中心圖磚使用方式/media/image26.png
+.. |image25| image:: ./國土測繪中心圖磚使用方式/image26.png
    :width: 5.03013in
    :height: 1.06528in
-.. |image26| image:: ./output/國土測繪中心圖磚使用方式/media/image27.png
+.. |image26| image:: ./國土測繪中心圖磚使用方式/image27.png
    :width: 5.44861in
    :height: 0.51490in
-.. |image27| image:: ./output/國土測繪中心圖磚使用方式/media/image28.png
+.. |image27| image:: ./國土測繪中心圖磚使用方式/image28.png
    :width: 4.46875in
    :height: 1.31255in
-.. |image28| image:: ./output/國土測繪中心圖磚使用方式/media/image29.png
+.. |image28| image:: ./國土測繪中心圖磚使用方式/image29.png
    :width: 4.11499in
    :height: 1.94444in
-.. |image29| image:: ./output/國土測繪中心圖磚使用方式/media/image30.png
+.. |image29| image:: ./國土測繪中心圖磚使用方式/image30.png
    :width: 3.47917in
    :height: 0.61111in
-.. |image30| image:: ./output/國土測繪中心圖磚使用方式/media/image31.png
+.. |image30| image:: ./國土測繪中心圖磚使用方式/image31.png
    :width: 2.01389in
    :height: 1.73958in
-.. |image31| image:: ./output/國土測繪中心圖磚使用方式/media/image32.png
+.. |image31| image:: ./國土測繪中心圖磚使用方式/image32.png
    :width: 4.16667in
    :height: 2.57014in
-.. |image32| image:: ./output/國土測繪中心圖磚使用方式/media/image33.png
+.. |image32| image:: ./國土測繪中心圖磚使用方式/image33.png
    :width: 6.03348in
    :height: 2.84722in
-.. |image33| image:: ./output/國土測繪中心圖磚使用方式/media/image34.png
+.. |image33| image:: ./國土測繪中心圖磚使用方式/image34.png
    :width: 5.93472in
    :height: 0.63695in
-.. |image34| image:: ./output/國土測繪中心圖磚使用方式/media/image35.png
+.. |image34| image:: ./國土測繪中心圖磚使用方式/image35.png
    :width: 3.83316in
    :height: 2.77431in
-.. |image35| image:: ./output/國土測繪中心圖磚使用方式/media/image36.png
+.. |image35| image:: ./國土測繪中心圖磚使用方式/image36.png
    :width: 5.33845in
    :height: 1.97083in
-.. |image36| image:: ./output/國土測繪中心圖磚使用方式/media/image37.png
+.. |image36| image:: ./國土測繪中心圖磚使用方式/image37.png
    :width: 2.64583in
    :height: 1.97795in
-.. |image37| image:: ./output/國土測繪中心圖磚使用方式/media/image38.png
+.. |image37| image:: ./國土測繪中心圖磚使用方式/image38.png
    :width: 2.75591in
    :height: 3.77718in
-.. |image38| image:: ./output/國土測繪中心圖磚使用方式/media/image39.png
+.. |image38| image:: ./國土測繪中心圖磚使用方式/image39.png
    :width: 3.14961in
    :height: 3.00548in
-.. |image39| image:: ./output/國土測繪中心圖磚使用方式/media/image40.png
+.. |image39| image:: ./國土測繪中心圖磚使用方式/image40.png
    :width: 2.48611in
    :height: 2.06034in
-.. |image40| image:: ./output/國土測繪中心圖磚使用方式/media/image41.png
+.. |image40| image:: ./國土測繪中心圖磚使用方式/image41.png
    :width: 4.38889in
    :height: 2.52339in
