@@ -7,7 +7,7 @@
 --------------------
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
     :glob:
 
     cache/通用版電子地圖/*
